@@ -1,0 +1,188 @@
+body{
+    font-family: "Î¢ÈíÑÅºÚ";
+    background: #ffffff center;
+    
+     background-image:url(../images/chess1.jpg);
+     background-repeat:no-repeat;
+}
+.loginback{
+	font-family: "Î¢ÈíÑÅºÚ";
+    background: #f4f4f4 center;
+}
+.content1 {  
+    text-align: center;
+    margin:0 auto;
+    margin-left:200px;
+    width:1200px;   
+}
+.content2 {  
+    text-align: center;
+    margin:0 auto;
+    font-family: "Î¢ÈíÑÅºÚ";
+    font-size:18px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+.content3 {
+	border-width: 1px;
+	padding: 8px;
+	text-align: center;
+    margin:0 auto;
+     
+    font-family: "Î¢ÈíÑÅºÚ";
+    font-size:18px;
+	color:#ff0000;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	
+}
+/*content*/
+.content {
+    width: 28%;
+    margin: 70px auto 0;
+    text-align: center;
+}
+.content-logo {
+    width: 80px;
+    height: 80px;
+}
+.content-title {
+    margin: 10px 0 25px 0;
+    font-size: 2em;
+    color: #747474;
+    font-weight: normal;
+}
+.content-form {
+    width: 100%;
+    padding: 36px 0 20px;
+    border: 1px solid  #dedede;
+    text-align: center;
+    background: #fff;
+}
+.content-form1 {
+    width: 100%;
+    padding: 36px 0 20px;
+    
+    text-align: center;
+    
+}
+.content-form form div {
+    margin-bottom: 19px;
+}
+.content-form form .user,
+.content-form form .password {
+    width: 77%;
+    height: 20px;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid  #cccbcb;
+    border-radius: 7px;
+    letter-spacing: 1px;
+}
+.content-form form input:focus {
+    outline: none;
+    -webkit-box-shadow: 0 0 5px #0dbfdd;
+            box-shadow: 0 0 5px #0dbfdd;
+}
+.content-form-signup {
+    width: 84%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid  #cccbcb;
+    border-radius: 7px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #fff;
+    background: #0dbfdd;
+    cursor: pointer;
+}
+.content-form-signup:hover {
+    background: #0cb3d0;
+}
+.content-form-signup:focus {
+    outline: none;
+    border: 1px solid  #0cb3d0;
+}
+.content-login-description {
+    margin-top: 25px;
+    line-height: 1.63636364;
+    color: #747474;
+    font-size: .91666667rem;
+}
+.content-login-link {
+    font-size: 16px;
+    color: #0dbfdd;
+    text-decoration: none;
+}
+table.gridtable {
+	font-family:"Î¢ÈíÑÅºÚ";
+	font-size:18px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+.fl-table {
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: normal;
+    font-family:"Î¢ÈíÑÅºÚ";
+    font-family: verdana,arial,sans-serif;
+   border-width: 1px;
+    border-collapse: collapse;
+    border: 1px solid  #cccbcb;
+    width: 80%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: #000;
+}
+
+.fl-tabletd {
+    border-right: 1px solid ;
+    font-family:"Î¢ÈíÑÅºÚ";
+    background: #4FC3A1;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    background-color: #ffe;
+}
+
+li {
+    float: left;
+}
+button{
+outline:none;
+float: left;
+
+background-color:#333;
+text-color:#ffd04b;
+color:#ffd04b;
+border:none;
+padding: 14px 16px;
+}
+button:hover {
+background-color: #111;
+
+}
+
