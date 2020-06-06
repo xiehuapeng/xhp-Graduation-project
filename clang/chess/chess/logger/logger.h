@@ -1,6 +1,4 @@
-//
-// Created by caesar on 2019/11/9.
-//
+
 
 #ifndef KTOOL_LOGGER_H
 #define KTOOL_LOGGER_H
