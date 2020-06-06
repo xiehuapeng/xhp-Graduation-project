@@ -1,6 +1,4 @@
-//
-// Created by caesar on 2019/11/9.
-//
+
 
 #include "logger.h"
 #include <vector>
